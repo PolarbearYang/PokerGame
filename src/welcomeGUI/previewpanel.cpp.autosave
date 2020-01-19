@@ -1,0 +1,6 @@
+#include "previewpanel.h"
+
+previewPanel::previewPanel(QWidget *parent) : QWidget(parent)
+{
+    
+}

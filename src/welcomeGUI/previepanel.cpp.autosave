@@ -1,0 +1,8 @@
+#include "previepanel.h"
+
+//头像上传展示界面
+
+PreviePanel::PreviePanel()
+{
+
+}

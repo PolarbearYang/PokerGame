@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/d1.png</file>
+        <file>images/d2.png</file>
+        <file>images/z1.png</file>
+        <file>images/z2.png</file>
+        <file>images/b_1.png</file>
+        <file>images/b_2.png</file>
+        <file>images/mainbg.png</file>
+        <file>images/setting.png</file>
+        <file>images/setting_1.png</file>
+        <file>images/title.png</file>
+        <file>images/sta.png</file>
+        <file>images/close.png</file>
+        <file>images/dan1.png</file>
+        <file>images/dan2.png</file>
+        <file>images/lian1.png</file>
+        <file>images/lian2.png</file>
+        <file>images/selbg.png</file>
+        <file>images/boxHead.png</file>
+        <file>welcomeGUI.ico</file>
+    </qresource>
+</RCC>

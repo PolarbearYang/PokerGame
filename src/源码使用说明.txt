@@ -1,0 +1,9 @@
+运行源码需要Qt5.9.1及VS2017编译器。
+若需要使用这些源码重新生成游戏，需要完成以下步骤：
+1.逐个打开src所有文件夹下的.pro文件(共7个), 编译运行生成exe。取出这些exe并放在同一文件夹下
+2.将/docs/resource文件夹下的images,SE文件夹复制到第1步中的exe所在文件夹
+3.打开开始菜单栏——Qt 5.9.1——Qt 5.9.1 64-bit for Desktop (MSVC 2017)
+4.输入"cd /d ", 然后输入exe所在的文件夹路径，按下回车
+5.依次输入"windeployqt PokerGame.exe","windeployqt LandLord_client.exe","windeployqt LandLord_host.exe","windeployqt LandLord_single.exe"
+"windeployqt Blackjack.exe"
+6.运行PokerGame.exe, 测试能否顺利进入各个游戏。如果此一步测试无误，则生成成功!
